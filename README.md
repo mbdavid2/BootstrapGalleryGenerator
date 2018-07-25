@@ -22,7 +22,7 @@ Put these two files (generatePage.py and sliderModalNoFade.html) in a folder wit
 
 ### Example:
 
-![exampleGif](https://github.com/mbdavid2/BootsrapGalleryGenerator/raw/master/documentation/example.gif)
+![exampleGif](https://github.com/mbdavid2/BootsrapGalleryGenerator/raw/master/doc/example.gif)
 
 If you want to test it yourself, you can download a Windows executable found in dist/Windows/BootstrapGalleryGeneratorExample.zip (the zip contains the .exe, the .html and some royalty free images to test it) or you can only download the exe and html. The executable has been built using [Pyinstaller](https://www.pyinstaller.org/). With this, you don't need to have Python installed in your system to test it. Be careful with what changes you make to the html, the script uses different id's and classes to change the tags and links of the different images.
 
