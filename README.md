@@ -6,6 +6,7 @@ I had to make a bootstrap gallery for work. I had to write the html with more th
 ### Requirements
 
 ```Python3```
+
 ```BeautifulSoup4``` (used to parse and modify the html file)
 
 ### Usage
@@ -27,4 +28,7 @@ Put these two files (generatePage.py and sliderModalNoFade.html) in a folder wit
 If you want to test it yourself, you can download a Windows executable found in dist/Windows/BootstrapGalleryGeneratorExample.zip (the zip contains the .exe, the .html and some royalty free images to test it) or you can only download the exe and html. The executable has been built using [Pyinstaller](https://www.pyinstaller.org/). With this, you don't need to have Python installed in your system to test it. Be careful with what changes you make to the html, the script uses different id's and classes to change the tags and links of the different images.
 
 
+## TODO/Things that could be improved
 
+* Compress de fokin images
+* Don't have the base html hardcoded?¿?
