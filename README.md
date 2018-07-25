@@ -1,7 +1,7 @@
 # Bootstrap Gallery Generator
 Python script to automatically create an HTML Gallery using Bootstrap with the images in the folder.
 
-I had to make a bootstrap gallery for work with 50 images and write the modal (with the links to the previous/next images) manually. On top of that, every day new images had to be added, some had to be removed, etc So I basically wrote this script to do that automatically.
+I had to make a bootstrap gallery for work. I had to write the html with more than 50 images and write the modal with the links to the previous/next images manually. On top of that, every day new images had to be added, some had to be removed, etc. So I basically wrote this script to do that automatically.
 
 ### Requirements
 
