@@ -35,3 +35,4 @@ The executable has been built using [Pyinstaller](https://www.pyinstaller.org/).
 * Compress de fokin images
 * Don't have the base html hardcoded?¿?
 * Change the size of the modal based on the image's size (currently this can only be done adding/deleting the "modal-lg" class)
+* Allow a different src for images (for example a different folder)
