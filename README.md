@@ -30,5 +30,7 @@ If you want to test it yourself, you can download a Windows executable found in 
 
 ## TODO/Things that could be improved
 
+* Overall better implementation? Idk if modals are the best option to do this
 * Compress de fokin images
 * Don't have the base html hardcoded?¿?
+* Change the size of the modal based on the image's size (currently this can only be done adding/deleting the "modal-lg" class)
